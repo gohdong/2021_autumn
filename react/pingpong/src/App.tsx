@@ -7,7 +7,11 @@ function App() {
   function apiCall(e:any){
 
     // fetch("http://127.0.0.1:3000/api").then((res)=>console.log(res))
-    axios.get('http://192.168.0.45:3000/api').then((res)=>console.log(res))
+    axios.get('http://192.168.0.45:3000/api').then((res)=>{
+      let a:any = res.data
+      alert(a.temp);
+      
+    })
     
   }
 
@@ -16,9 +20,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
         <p
           className="App-link"
           // href="https://reactjs.org"
@@ -26,7 +27,7 @@ function App() {
           // target="_blank"
           // rel="noopener noreferrer"
         >
-          Learn React
+          Call API
         </p>
       </header>
     </div>
