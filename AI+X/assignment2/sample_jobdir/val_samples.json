@@ -1,0 +1,1202 @@
+[
+  {
+    "image_id": "dog.989.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.756.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.522.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.282.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.557.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.38.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.854.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.235.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.663.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.402.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.363.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.500.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.299.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.566.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.737.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.808.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.479.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.46.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.204.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.977.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.928.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.708.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.401.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.641.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.306.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.169.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.594.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.37.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.892.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.625.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.621.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.144.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.575.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.407.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.240.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.830.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.214.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.697.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.890.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.491.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.126.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.773.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.401.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.881.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.501.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.617.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.449.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.239.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.866.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.61.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.103.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.44.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.513.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.896.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.679.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.782.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.673.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.990.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.126.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.592.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.98.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.889.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.62.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.3.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.119.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.891.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.330.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.771.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.535.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.747.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.690.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.434.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.461.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.584.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.956.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.761.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.601.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.15.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.24.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.231.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.82.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.756.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.226.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.328.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.149.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.753.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.427.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.135.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.725.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.831.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.753.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.964.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.141.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.361.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.680.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.104.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.604.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.68.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.621.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.34.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.202.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.884.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.45.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.681.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.290.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.622.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.191.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.524.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.396.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.50.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.319.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.397.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.800.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.9.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.611.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.197.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.261.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.171.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.297.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.324.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.959.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.223.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.629.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.86.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.998.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.88.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.115.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.613.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.257.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.196.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.453.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.258.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.204.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.626.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.280.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.485.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.428.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.510.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.89.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.507.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.919.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.546.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.887.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.439.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.914.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.412.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.383.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.51.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.347.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.873.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.268.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.618.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.311.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.107.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.747.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.465.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.608.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.118.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.744.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.51.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.55.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.266.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.433.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.946.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.187.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.42.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.120.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.404.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.704.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.688.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.873.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.102.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.124.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.386.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.574.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.294.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.279.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.585.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.751.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.600.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.803.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.269.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.592.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.63.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.280.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.13.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.888.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.557.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.82.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.19.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.218.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.451.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.850.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.691.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.520.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.74.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.145.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.803.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.824.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.489.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.441.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.496.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.186.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.96.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.668.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.210.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.516.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.593.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.345.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.178.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.910.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.80.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.156.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.452.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.892.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.844.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.534.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.365.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.362.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.197.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.632.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.723.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.750.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.505.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.11.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.672.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.743.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.36.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.580.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.545.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.35.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.620.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.701.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.25.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.246.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.192.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.208.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.133.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.95.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.179.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.841.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.560.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.419.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.509.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.446.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.14.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.897.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.337.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.426.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.94.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.425.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.735.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.49.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.855.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.760.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.151.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.712.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.216.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.602.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.687.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.438.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.504.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.409.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.175.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.712.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.116.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.317.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.786.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.794.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.808.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.496.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.616.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.835.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.207.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.571.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.105.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.770.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.421.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.17.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.398.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.543.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.758.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.978.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.614.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.300.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.203.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.815.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.883.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.549.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.624.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.96.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.971.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.781.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.705.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "cat.207.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.697.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.72.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "cat.489.jpg",
+    "label": 0
+  },
+  {
+    "image_id": "dog.129.jpg",
+    "label": 1
+  },
+  {
+    "image_id": "dog.339.jpg",
+    "label": 1
+  }
+]
